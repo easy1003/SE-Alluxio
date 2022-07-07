@@ -147,7 +147,7 @@
     <hadoop-openstack.version>2.6.0</hadoop-openstack.version>
     <java.version>1.8</java.version>
     <jersey.version>2.22</jersey.version>
-    <jetty.version>9.2.16.v20160414</jetty.version>
+    <jetty.version>10.0.10</jetty.version>
     <junit.version>4.12</junit.version>
     <libthrift.version>0.9.3</libthrift.version>
     <license.header.path>build/license/</license.header.path>
